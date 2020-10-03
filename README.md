@@ -1,2 +1,2 @@
-# JavaFXTemplate
- Template JavaFX
+# AdivinApp
+ Ejercicio AdivinApp
